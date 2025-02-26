@@ -1,6 +1,6 @@
 # CCNA Networking Basics - Packet Tracer Labs
 
-Welcome to the **CCNA Networking Basics Packet Tracer Labs** repository! This collection of labs is designed to help beginners understand fundamental networking concepts, focusing on router configuration and security.
+Welcome to the **CCNA Networking Basics Packet Tracer Labs** repository! This collection of labs is designed to help in understanding of fundamental networking concepts, focusing on router configuration and security.
 
 ## 🚀 Overview
 These labs are intended to provide hands-on practice using Cisco Packet Tracer. Each lab includes step-by-step instructions, configuration commands, and explanations to reinforce key networking concepts.
